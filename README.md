@@ -109,7 +109,7 @@ Veridi Logistics (Olist) experiences late deliveries in approximately 8–12% of
 
 ## B. Project Links
 
-- **Notebook**: [Google Colab Notebook](https://colab.research.google.com/drive/17L69MINJDPQG95oHFxiqyJM2BTvxvIg4?usp=sharing)  
+- **Notebook**: [Google Colab Notebook 1](https://colab.research.google.com/drive/17L69MINJDPQG95oHFxiqyJM2BTvxvIg4?usp=sharing)  , [Google Colab Notebook 2]https://colab.research.google.com/drive/1hTi7FM645k_CP8bxtTbkrC6yMAcB8rOb#scrollTo=3S2OBCZ9U6eN
   
 
 - **Dashboard**: [Dashboard](https://1ba64bf49a4fb06bc8.gradio.live/)
